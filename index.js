@@ -1,4 +1,4 @@
-Let button = document.GetElementById('button');
+Let button = document.GetElementById('buttonId');
 Let h1 = document.GetElementById('h1');
 Let count = 0;
 
