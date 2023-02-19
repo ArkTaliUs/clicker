@@ -4,6 +4,6 @@ Let count = 0;
 
 Button.addEventListener('click', function() {
         count++;
-        h1.textContent = 'Counter: ' + count;
+        h1.textContent = 'Count: ' + count;
 })
         
